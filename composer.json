@@ -1,5 +1,5 @@
 {
-  "name": "aoepeople/aoe_scheduler",
+  "name": "antoniocarboni/aoe_scheduler",
   "license": "GPL-3.0",
   "type": "magento-module",
   "description": "Magento Cron Scheduler",
